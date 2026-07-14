@@ -1,9 +1,10 @@
 # Week 2
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 06-03 to 06-07
 
 ## Goals
-
+- Improve dispersion calculations.
+- Generate higher-quality datasets.
 
 
 ## Approach and Implementation
