@@ -8,10 +8,10 @@
 - Begin manuscript using LaTeX/Overleaf.
 
 ## Approach and Implementation
-Implemented interpolation of finite-element field solutions onto a uniform Cartesia grid. Computed interpolated electric and magnetic field components for each guided mode while removing redundant finite-element mesh information from the stored datasets. Using .mat files produce figures for the manuscript.
+Implemented interpolation of finite-element field solutions onto a uniform Cartesia grid. Computed interpolated electric and magnetic field components for each guided mode while removing redundant finite-element mesh information from the stored datasets. Using .mat files produce figures for the manuscript. 
 
 ## Results
-Successsfully reduced dataset size while preserving the electromagnetic field distributions required for overlap calculations. Verified that the interpolated field profiles accuretly reproduced the original finite-element solutions.
+Successsfully reduced dataset size while preserving the electromagnetic field distributions required for overlap calculations. Verified that the interpolated field profiles accuretly reproduced the original finite-element solutions. A manuscript was produced with figures of entrance and exit surface mode profiles, explanations regarding the 2D interpolation, cos(theta)^N correctioons to account for approximating trapezods with rectangles, etc.
 
 ## Notes
 
